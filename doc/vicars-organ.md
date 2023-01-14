@@ -4,6 +4,8 @@ This is class of Portative pipe organ in the smallest version with manual only. 
 
 A basic type of organ for those who only have one midi keyboard controller. But even in the 18th century there were musical instruments for poorer parishes.
 
+Files for this setting are in directory [Vicar](/Vicar)
+
 I was inspired by the following pipe organs.
 
 ## organ1
