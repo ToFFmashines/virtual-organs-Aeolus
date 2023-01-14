@@ -1,0 +1,29 @@
+# Aeolus instrument definition file
+# Created by Aeolus-0.10.4 at Fri Jan 13 20:15:02 2023
+
+
+/instr/new
+/tuning 435.0 0
+
+# Keyboards
+#
+/manual/new   I
+
+# Divisions
+#
+/divis/new    I        1  1
+/rank         C   4  flute8.ae0
+/rank         C   4  flute4.ae0
+/rank         C   5  principal_2.ae0
+/divis/end
+
+# Interface groups
+#
+/group/new    ManualI
+/stop         0   1   1
+/stop         0   1   2
+/stop         0   1   3
+/group/end
+
+
+/instr/end
