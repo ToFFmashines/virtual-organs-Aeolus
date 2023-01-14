@@ -50,5 +50,3 @@ At this time the Bishop’s directory is identically to original stops-0.4.0 fil
 - pedal - pedal compass: 32 notes, no. of organ stops up to 24
 
 The stops posted here was tested on [aeolus-0.10.4] [aeolus-0.10.4](https://kokkinizita.linuxaudio.org/linuxaudio/downloads/aeolus-0.10.4.tar.bz2)
-
-[Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
